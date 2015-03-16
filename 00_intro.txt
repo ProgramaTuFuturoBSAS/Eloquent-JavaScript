@@ -1,7 +1,7 @@
 :next_link: 01_values
 :load_files: ["code/intro.js"]
 
-= Introduction =
+= Introducción =
 
 This is a book about getting ((computer))s to do what you want them to
 do. Computers are about as common as screwdrivers today, but they contain a
